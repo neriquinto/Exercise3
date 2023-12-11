@@ -1,0 +1,25 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    margin: 10px;
+    float: left;
+    align-items: center;
+    justify-content: center;
+}
+
+#box1 {
+    background-color: #d0b8ac;
+}
+
+#box2 {
+    background-color: #f3d8c7;
+}
+
+#box3 {
+    background-color: #efe5dc;
+}
+    
+.clear {
+    clear: both;
+}
